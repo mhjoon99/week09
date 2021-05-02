@@ -47,7 +47,7 @@
             
 
 ## 개인 GitHub URL
-    박승준 - 
+    박승준 - https://github.com/parkseungjun12/TeamProject.git
     
     김다혜 - https://github.com/dahye828/SMUtime
     
@@ -62,3 +62,5 @@
             https://github.com/Yanghaeun716/Main
 
 ## 팀 GitHub
+    
+    https://github.com/mhjoon99/SMU-Time

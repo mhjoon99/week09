@@ -58,7 +58,7 @@
     심우정 - https://github.com/ShimWooJeong/SMP_Board
     
     양하은 - https://github.com/Yanghaeun716/FirebaseListexample,
-             https://github.com/Yanghaeun716/BottomNavi
-             https://github.com/Yanghaeun716/Main
+            https://github.com/Yanghaeun716/BottomNavi
+            https://github.com/Yanghaeun716/Main
 
 ## 팀 GitHub
